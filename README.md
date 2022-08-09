@@ -2,7 +2,6 @@
 This repository contains two application configurations for a 'yahoo' and a 'google' example applications, which both utilize the same preload script. 
 It also contains a 'test' app, which can be utilized to publish different instruments to a specific channel which allows for the applications to display the instrument pushed to the channel. 
 # Installation
-Install the dependencies via:
 - npm install
 From the main repository and from within the testApp folder, if it will be utilized
 - Copy the appConfig .json file and place it in %localappdata%\Tick42\GlueDesktop\config\apps
