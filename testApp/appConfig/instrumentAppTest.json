@@ -1,0 +1,17 @@
+[
+    {
+        "title": "instrumentTestApp",
+        "type": "window",
+        "name": "instrumentTestApp",
+        "hidden": false,
+        "details": {
+            "url": "http://localhost:4448/",
+            "height": 300,
+            "width": 300,
+            "left": 100,
+            "top": 100,
+            "mode": "tab",
+            "allowChannels": true
+        }
+    }
+]
